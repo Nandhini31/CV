@@ -4,7 +4,7 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Skills
 
-#### Analytical Thinker/Problem Solver
+#### Analytical Thinker
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -20,6 +20,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
+
 
 ## Education
 
