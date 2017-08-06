@@ -46,9 +46,10 @@ I thrive working in a team. I always go out of my way communicate openly with ot
 
 #### City University London (September 2012 to September 2013)
 
-- M.Sc Telecoms and  Computer Networks
+- M.Sc Telecoms and  Networks
 - 2:1
-- Student and Class Representative. 
+- Student and Class Representative
+- Cryptography, Wireless Networks
 
 
 #### Birla Institute of Technology and Science, Pilani. India(June 2004 - June 2008)
