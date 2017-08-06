@@ -1,26 +1,30 @@
 ## Nandhini Narasimhan
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
-
+I am a passionate engineer with leadership qualities looking to use my Software Quality Engineer skills and experience as a Full Stack Developer. After completing my Masters in Telecoms and Networks from City University London, I worked as Release Operations Engineer and Software Quality Engineer at McAfee/Intel Security. My previous experiences inspired me to become a software developer.
 ## Skills
 
 #### Analytical Thinker
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- Experience
-- Achievements
-- Evidence
+- As a trained Engineer I always look for opportunities to automate. In my role as Test Automation Engineer I enjoyed automating end to end testing cycle including Continuous Integration(Jenkins), test automation(Python + Robot Framework) and result generation(HTML/CSS/JENKINS). 
+- I also extended my role in Test Infrastructure by migrating from VMWare ESX to McAfee Cloud(vrealise automation).
+- I achieved 98% test automation, 80% code and functional coverage for Threat
+Intelligence component in all of McAfee Enterprise and Consumer Products.
 
 #### Leadership
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+- Responsible for building, testing and releasing everyday anti-virus updates for various McAfee products globally.
+- I was scrum master for development and QA teams who built the daily anti-virus update software.
+- I handled sprint planning, backlog grooming, product roadmap through daily stand ups  to deliver a project which involved building and testing consumer anti-virus update ready to be released to the world.
+- I co-founded womenhackfornonprofits.com, a social enterprise for women in tech to build free open source software for charities around the world.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+####Excellent Team Player
 
+I thrive working in a team. I always go out of my way communicate openly with others and have a good relationship with all my team members.
+
+- In my previous role as a Software Quality Engineer I always volunteered to mentor Work Experience students and Interns. I learnt a lot from pairing with them.
+- I used my skills from previous roles and helped my scrum master to co-ordinate sprint planning and daily stand ups when the team adapted Agile methodolgy(from a Waterfall model).
+- I also wrote my tests along with the developers so that the tests is ready when the feature is complete. This saved a lot of time and technical debt. 
 
 ## Education
 
@@ -35,7 +39,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### City University London (September 2012 to September 2013)
 
-- M.sc Telecoms and  Computer Networks
+- M.Sc Telecoms and  Computer Networks
 - 2:1
 - Student and Class Representative. 
 
