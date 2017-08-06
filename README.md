@@ -1,7 +1,7 @@
 ## Nandhini Narasimhan
 
 
-I am a passionate Engineer with leadership qualities looking to use my Software Quality Engineer skills  as a Full Stack Developer. After completing my Masters in Telecoms and Networks from City University London, I worked as Lead Release Operations Engineer and Software Quality Engineer at McAfee/Intel Security. I am looking forward to be challenge and enjoy the experience of creating good quality software that will meet my customer's needs with the power of technology.
+I am a passionate Engineer with leadership qualities looking to use my QA skills  as a Full Stack Developer. After completing my Masters in Telecoms and Networks from City University London, I worked as Lead Release Operations Engineer and Software Quality Engineer at McAfee/Intel Security. I am looking forward to be challenged and enjoy the experience of creating good quality software. 
 
 ## Skills
 
