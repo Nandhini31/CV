@@ -1,13 +1,17 @@
 ## Nandhini Narasimhan
 
 
-I am a passionate Engineer with leadership qualities looking to use my QA skills  as a Full Stack Developer. After completing my Masters in Telecoms and Networks from City University London, I worked as Lead Release Operations Engineer and Software Quality Engineer at McAfee/Intel Security. I am looking forward to be challenged and enjoy the experience of creating good quality software. 
+I am a passionate software engineer looking for Full Stack Developer opportunities that would allow me to utilise my technical and creative abilities. 
+
+After completing my Masters in Telecoms and Networks from City University London, I worked as Lead Release Operations Engineer and Software Quality Engineer at McAfee/Intel Security. My time at McAfee helped me create a strong foundation in both technical skills (Python,QA) and leadership skills (Scrum Master).
+
+Information Technology has always excited me and I have taken on various challenges that would help me grow as a professional - my recent decision to quit a full time job to take on Makers Academy being one. I am also the co-founder of womenhackfornonprofits - a not for profit meet up group aimed at getting more women involved in technology to help deliver IT solutions to various charity organisations around the globe.
 
 ## Skills
 
 #### Analytical Thinker
 
-- As a trained Engineer I always look for opportunities to automate. In my role as Test Automation Engineer I enjoyed automating end to end testing cycle including Continuous Integration(Jenkins), test automation(Python + Robot Framework) and result generation(HTML/CSS/Jenkins). 
+- As a trained Engineer I always look for opportunities to automate. In my role as Test Automation Engineer I enjoyed automating the end to end testing cycle including Continuous Integration(Jenkins), test automation(Python + Robot Framework) and result generation(HTML/CSS/Jenkins). 
 - I also extended my role in Test Infrastructure by migrating from VMWare ESX to McAfee Cloud(vrealise automation).
 - I achieved 98% test automation, 80% code and functional coverage for Threat
 Intelligence component in all of McAfee Enterprise and Consumer Products.
@@ -22,11 +26,11 @@ Intelligence component in all of McAfee Enterprise and Consumer Products.
 
 #### Excellent Team Player
 
-I thrive working in a team. I always go out of my way communicate openly with others and have a good relationship with all my team members and customers.
+I thrive working in a team. I always go out of my way communicate openly with others and have a good relationship with all my team members.
 
 - In my previous role as a Software Quality Engineer I always volunteered to mentor Work Experience students and Interns. I learnt a lot from pairing with them.
-- I used my skills from previous roles and helped my scrum master to co-ordinate sprint planning and daily stand ups when the team adapted Agile methodolgy(from a Waterfall model).
-- I also wrote my tests along with the developers so that the tests is ready when the feature is complete. This saved a lot of time and technical debt. 
+- I used my skills from previous roles to help my scrum master to co-ordinate sprint planning and daily stand ups when the team adapted Agile methodolgy(from a Waterfall model).
+- I also wrote my tests along with the developers so that the tests are ready when the feature is complete. This saved a lot of time and technical debt. 
 
 #### Additional Skills
 
