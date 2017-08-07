@@ -18,7 +18,7 @@ Intelligence component in all of McAfee Enterprise and Consumer Products.
 
 #### Leadership
 
-- Responsible for building, testing and releasing everyday anti-virus updates for various McAfee products globally.
+- I was responsible for building, testing and releasing everyday anti-virus updates for various McAfee products globally.
 - I was scrum master for development and QA teams who built the daily anti-virus update software.
 - I handled sprint planning, backlog grooming, product roadmap through daily stand ups  to deliver a project which involved building and testing consumer anti-virus update ready to be released to the world.
 - I co-founded womenhackfornonprofits.com, a social enterprise for women in tech to build free open source software for charities around the world.
