@@ -4,8 +4,7 @@
 I am a passionate software engineer looking for Full Stack Developer opportunities that would allow me to utilise my technical and creative abilities. 
 
 Post completion of my Masters in Telecoms and Networks from City University London, I worked as Lead Release Operations Engineer and Software Quality Engineer at McAfee/Intel Security. My time at McAfee helped me build a strong foundation for my  technical skills (Python,QA) as well as developing my leadership abilities (Scrum Master).
-
-Information Technology has always excited me and I have taken on various challenges that would help me grow as a professional - my recent decision to quit a full time job to take up Makers Academy being one. I am also the co-founder of womenhackfornonprofits - a meet up group aimed at getting more women involved in technology to help deliver IT solutions to various not for profit organisations around the globe.
+ I am also the co-founder of [womenhackfornonprofits](http://www.womenhackfornonprofits.com/) - a meet up group aimed at getting more women involved in technology to help deliver IT solutions to various not for profit organisations around the globe.
 
 ## Skills
 
