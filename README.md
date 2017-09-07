@@ -4,12 +4,12 @@
 I am a passionate software engineer looking for Full Stack Developer opportunities that would allow me to utilise my technical and creative abilities. 
 
 Post completion of my Masters in Telecoms and Networks from City University London, I worked as Lead Release Operations Engineer and Software Quality Engineer at McAfee/Intel Security. My time at McAfee helped me build a strong foundation for my  technical skills (Python,QA) as well as developing my leadership abilities (Scrum Master).
- I am also the co-founder of [womenhackfornonprofits](http://www.womenhackfornonprofits.com/) - a meet up group aimed at getting more women involved in technology to help deliver IT solutions to various not for profit organisations around the globe.
+ I am also the co-founder of [womenhackfornonprofits](http://www.womenhackfornonprofits.com/) - We link passionate women in tech to meaningful projects, providing them with a supportive environment to exercise their skills and pride themselves in creating solutions that give something back.
  
 ## Projects 
-|Projects   	| Technologies  	|   Link	|   
-|-----------	|---------------	|--------|
-| [MoodyNews](https://github.com/Nandhini31/moody_news)  	|  Node.js, Express.js, Zombie, Mocha, HTML/CSS 	| [Link](http://moody-news.herokuapp.com)  	|   
+|Projects   	|Description|Technologies  	|   Link	|   
+|-----------	|-----------|---------------	|--------|
+| [MoodyNews](https://github.com/Nandhini31/moody_news)  	| A web app that filters news by user's mood| Node.js, Express.js, Zombie, Mocha, HTML/CSS 	| [Link](http://moody-news.herokuapp.com)  	|   
 | [Makersbnb](https://github.com/Nandhini31/makersbnb)  	| Ruby, HTML/CSS, PostgreSQL, Rspec, Capybara  	| [Link](http://mbnb.herokuapp.com/)  	| 
 | [RockPaperScissors](https://github.com/Nandhini31/rps-challenge)  	|   Ruby, Sinatra, Rspec, HTML/CSS	| n/a |
 
