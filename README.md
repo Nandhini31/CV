@@ -7,11 +7,11 @@ Post completion of my Masters in Telecoms and Networks from City University Lond
  I am also the co-founder of [womenhackfornonprofits](http://www.womenhackfornonprofits.com/) - a meet up group aimed at getting more women involved in technology to help deliver IT solutions to various not for profit organisations around the globe.
  
 ## Projects 
-|Projects   	| Technologies  	|   Link	|   	|   	|
+|Projects   	| Technologies  	|   Link	|   
 |---	|---	|---	|---	|---	|
-| [MoodyNews](https://github.com/Nandhini31/moody_news)  	|   	|   	|   	|   	|
-|   	|   	|   	|   	|   	|
-|   	|   	|   	|   	|   	|
+| [MoodyNews](https://github.com/Nandhini31/moody_news)  	|  Node.js, Express.js, Zombie,Mocha, HTML/CSS 	| [Link](http://moody-news.herokuapp.com)  	|   
+| [Makersbnb](https://github.com/Nandhini31/makersbnb)  	| Ruby,HTML/CSS,PostgreSQL  	| [Link](http://mbnb.herokuapp.com/)  	|   	|   	|
+| [RockPaperScissors](https://github.com/Nandhini31/rps-challenge) Ruby,Sinatra, HTML/CSS 	|   n/a	|   	|   	|   	|
 
 
 ## Skills
