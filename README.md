@@ -43,8 +43,8 @@ I thrive working in a team. I always go out of my way communicate openly with ot
 - Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- Ruby, Rails, Javascript, Node.js
+- Rspec, Jasmine
 
 #### City University London (September 2012 to September 2013)
 
