@@ -10,8 +10,8 @@ Post completion of my Masters in Telecoms and Networks from City University Lond
 |Projects   	|Description|Technologies  	|   Link	|   
 |-----------	|-----------|---------------	|--------|
 | [MoodyNews](https://github.com/Nandhini31/moody_news)  	| A web app that filters news by user's mood| Node.js, Express.js, Zombie, Mocha, HTML/CSS 	| [Link](http://moody-news.herokuapp.com)  	|   
-| [Makersbnb](https://github.com/Nandhini31/makersbnb)  	| Ruby, HTML/CSS, PostgreSQL, Rspec, Capybara  	| [Link](http://mbnb.herokuapp.com/)  	| 
-| [RockPaperScissors](https://github.com/Nandhini31/rps-challenge)  	|   Ruby, Sinatra, Rspec, HTML/CSS	| n/a |
+| [Makersbnb](https://github.com/Nandhini31/makersbnb)  	|An Airbnb Clone|Ruby, HTML/CSS, PostgreSQL, Rspec, Capybara  	| [Link](http://mbnb.herokuapp.com/)  	| 
+| [RockPaperScissors](https://github.com/Nandhini31/rps-challenge)  	| Good old RockPaperScissors game!|   Ruby, Sinatra, Rspec, HTML/CSS	| n/a |
 
 
 ## Skills
