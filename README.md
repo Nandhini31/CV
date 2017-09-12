@@ -1,10 +1,12 @@
 ## Nandhini Narasimhan
 
 
-I am a passionate software engineer looking for Full Stack Developer opportunities that would allow me to utilise my technical and creative abilities. 
+I am a passionate software engineer with Automation QA and Scrum Master background.Working with developers, I realised  building products while solving complex problems is challenging and that excites me. I decided to become a developer and  learn how to write clean, well tested code by joining Makers Academy. 
 
-Post completion of my Masters in Telecoms and Networks from City University London, I worked as Lead Release Operations Engineer and Software Quality Engineer at McAfee/Intel Security. My time at McAfee helped me build a strong foundation for my  technical skills (Python,QA) as well as developing my leadership abilities (Scrum Master).
- I am also the co-founder of [womenhackfornonprofits](http://www.womenhackfornonprofits.com/) - We link passionate women in tech to meaningful projects, providing them with a supportive environment to exercise their skills and pride themselves in creating solutions that give something back.
+I worked as a Software Quality Engineer and  Lead Release Operations Engineer at McAfee/Intel Security. My time at McAfee helped me build a strong foundation for my technical skills (Python,QA) as well as developing my leadership abilities (Scrum Master).I am also the co-founder of [womenhackfornonprofits](http://www.womenhackfornonprofits.com/), tech community for women. 
+
+I am looking to work with a team who are passinate about writing clean code and build a product with their customers in mind.
+ 
  
 ## Projects 
 |Projects   	|Description|Technologies  	|   Link	|   
