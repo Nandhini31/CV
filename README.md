@@ -14,6 +14,7 @@ I am looking to work with an energetic team committed to building innovative pro
 |[Sqrl](https://github.com/Nandhini31/sqrl) | A mobile app that lets user store favourite places with a map and retireve them  | React Native, Firebase, Native Base | n/a |
 | [MoodyNews](https://github.com/Nandhini31/moody_news)  	| A web app that filters news by user's mood| Node.js, Express.js, Zombie, Mocha, HTML/CSS 	| [Link](http://moody-news.herokuapp.com)  	|   
 | [Makersbnb](https://github.com/Nandhini31/makersbnb)  	|An Airbnb Clone|Ruby, HTML/CSS, PostgreSQL, Rspec, Capybara  	| [Link](http://mbnb.herokuapp.com/)  	| 
+|[TicTacToe](https://github.com/Nandhini31/tic-tac-toe) | Tic-Tac-Toe game | JavaScript,Jasmine| n/a |
 | [RockPaperScissors](https://github.com/Nandhini31/rps-challenge)  	| Good old RockPaperScissors game!|   Ruby, Sinatra, Rspec, HTML/CSS	| n/a |
 
 
