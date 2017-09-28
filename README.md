@@ -23,7 +23,7 @@ I am looking to work with an energetic team committed to building innovative pro
 #### Analytical Thinker
 
 - As a trained Engineer I always look for opportunities to automate any manual tasks. In my role as Test Automation Engineer I enjoyed automating the end to end testing cycle including Continuous Integration(Jenkins), test automation(Python + Robot Framework) and result generation(HTML/CSS/Jenkins). 
-- I also extended my role into Dev Ops by migrating our Test Infrastructure from VMWare ESX to McAfee Cloud(VRealize Automation).
+- I also extended my role into DevOps by migrating our Test Infrastructure from VMWare ESX to McAfee Cloud(VRealize Automation).
 - I achieved 98% test automation, 80% code and functional coverage for Threat Intelligence component in all of McAfee Enterprise and Consumer Products.
 
 #### Leadership
@@ -44,7 +44,7 @@ I thrive working in a team. I always go out of my way communicate openly with ot
 
 #### Additional Skills
 
-- Python, RobotFramework, Jenkins, Agile Methodolgies, Quality Assurance
+- Python, RobotFramework, Jenkins, Agile Methodologies, Quality Assurance
 - Basic French
 
 ## Education
