@@ -70,7 +70,7 @@ I thrive working in a team. I always go out of my way communicate openly with ot
 
 - Bachelors of Engineering(Hons)Computer Science
 - 2:1
-- Operating Systerms, Computer Networks 
+- Operating Systems, Computer Networks 
 
 
 ## Experience
