@@ -3,7 +3,7 @@
 
 I am a passionate software engineer with Automation QA and Scrum Master background.Working with developers, I realised  building products while solving complex problems is challenging and that excites me. I decided to become a developer and  learn how to write clean, well tested code by joining Makers Academy. 
 
-I worked as a Software Quality Engineer and  Lead Release Operations Engineer at McAfee/Intel Security. My time at McAfee helped me build a strong foundation for my technical skills (Python,QA) as well as developing my leadership abilities (Scrum Master).I am also the co-founder of [womenhackfornonprofits](http://www.womenhackfornonprofits.com/), tech community for women. 
+I worked as a Software Quality Engineer and  Lead Release Operations Engineer at McAfee/Intel Security. My time at McAfee helped me build a strong foundation for my technical skills (Python,QA) as well as developing my leadership abilities (Scrum Master).I am also the co-founder of [womenhackfornonprofits](http://www.womenhackfornonprofits.com/),a tech community for women. 
 
 I am looking to work with an energetic team committed to building innovative products that makes life exciting for its customers.
  
