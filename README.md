@@ -48,6 +48,7 @@ I thrive working in a team. I always go out of my way communicate openly with ot
 - Java, Ruby, Python
 - Agile Mehtodolgies, Continous Delivery, Quality Assurance
 - Rspec, Jasmine, Enzyme, Jest
+- Pair programming, XP Values 
 
 ## Education
 
