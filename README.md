@@ -20,8 +20,8 @@ I am a full stack developer with  experience across development, QA and release 
 
 #### Analytical Thinker
 
-- Building a standalone app for the Audit team using React/Redux front end with Java 8 Spring backend that consumes Kafka stream and persists the data in a Postgres DB for the EPoS 2 program at Ladbrokes Coral
-- Focused on Continuous Delivery approach  to release frequently . Worked in small iterations on the next most valuable feature for the customer 
+- Currently developing a standalone app for the Audit team using React/Redux front end with Java 8 Spring backend that consumes Kafka stream and persists the data in a Postgres DB for the EPoS 2 program at Ladbrokes Coral
+- Focused on Continuous Delivery approach to release frequently . Worked in small iterations on the next most valuable feature for the customer 
 - As a trained Engineer I always look for opportunities to automate any manual tasks. In my role as Test Automation Engineer I enjoyed automating the end to end testing cycle including Continuous Integration(Jenkins), test automation(Python + Robot Framework) and result generation(HTML/CSS/Jenkins). 
 - I also extended my role into DevOps by migrating our Test Infrastructure from VMWare ESX to McAfee Cloud(VRealize Automation).
 - I achieved 98% test automation, 80% code and functional coverage for Threat Intelligence component in all of McAfee Enterprise and Consumer Products.
@@ -30,7 +30,7 @@ I am a full stack developer with  experience across development, QA and release 
 
 - I was responsible for building, testing and releasing everyday anti-virus updates for various McAfee products globally.
 - I was scrum master for development and QA teams who built the daily anti-virus update software.
-- I handled sprint planning, backlog grooming, product roadmap through daily stand ups  to deliver a project which involved building and testing consumer anti-virus update ready to be released to the world.
+- I led sprint planning, backlog grooming, product roadmap through daily stand ups to focus on delivery and value to the customer iteratively.
 - I co-founded womenhackfornonprofits.com, a social enterprise for women in tech to build free open source software for charities around the world.
 
 
@@ -38,8 +38,9 @@ I am a full stack developer with  experience across development, QA and release 
 
 I thrive working in a team. I always go out of my way communicate openly with others and have a good relationship with all my team members.
 
-- In my previous role as a Software Quality Engineer I always volunteered to mentor Work Experience students and Interns. I learnt a lot from pairing with them.
+- In my current role, I established a relationship with SMEs to gain domain knowledge. I also engaged with product owner/customers to get quick feeback of the features. 
 - I used my skills from previous roles to help my scrum master to co-ordinate sprint planning and daily stand ups when the team adopted Agile methodology(from a Waterfall model).
+- In my previous role as a Software Quality Engineer I always volunteered to mentor Work Experience students and Interns. I learnt a lot from pairing with them.
 - I also wrote my tests along with the developers so that the tests are ready when the feature is complete. This saved 2 sprints worth of backlog and technical debt. 
 
 #### Additional Skills
@@ -74,7 +75,8 @@ I thrive working in a team. I always go out of my way communicate openly with ot
 
 
 ## Experience
-
+**Ladbrokes Coral** (October 2017 - Present)
+*Software Developer*
 **McAfee** (October 2013 to June 2017)    
 *Software Engineer*  
 **Hewlett Packard** (June 2009 to August 2012)   
