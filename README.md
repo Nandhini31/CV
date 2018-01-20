@@ -2,7 +2,7 @@
 
 I am a full stack developer with  experience across development, QA and release functions. I have strong technical and interpersonal skills gained through my varied roles in the tech industry. I am also the co-founder of [womenhackfornonprofits](http://www.womenhackfornonprofits.com/),a tech community for women to build open source projects.
 
-I am looking to work with a innovative team building exciting products for its customers with passion to write clean code and follow best practices.
+I am looking to work with a innovative team building developing products for its customers with passion to write clean code and follow best practices.
 
  
  
