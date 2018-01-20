@@ -1,6 +1,6 @@
 ## Nandhini Narasimhan
 
-I am a full stack developer with  experience across development, QA and release functions. I have strong technical and interpersonal skills gained through my varied roles within the industry. I am also the co-founder of [womenhackfornonprofits](http://www.womenhackfornonprofits.com/),a tech community for women. 
+I am a full stack developer with  experience across development, QA and release functions. I have strong technical and interpersonal skills gained through my varied roles in the tech industry. I am also the co-founder of [womenhackfornonprofits](http://www.womenhackfornonprofits.com/),a tech community for women to build open source projects.
 
 I am a full stack developer with  experience across development, QA and release functions. I have strong technical and interpersonal skills gained through my varied roles within the industry.
 
