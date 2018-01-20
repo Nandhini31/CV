@@ -21,7 +21,7 @@ I am looking to work with a innovative team building exciting products for its c
 #### Analytical Thinker
 
 - Currently developing a standalone app for the Audit team using React/Redux front end with Java 8 Spring backend that consumes Kafka stream and persists the data in a Postgres DB for the EPoS 2 program at Ladbrokes Coral
-- Focused on Continuous Delivery approach to release frequently . Worked in small iterations on the next most valuable feature for the customer 
+
 - As a trained Engineer I always look for opportunities to automate any manual tasks. In my role as Test Automation Engineer I enjoyed automating the end to end testing cycle including Continuous Integration(Jenkins), test automation(Python + Robot Framework) and result generation(HTML/CSS/Jenkins). 
 - I also extended my role into DevOps by migrating our Test Infrastructure from VMWare ESX to McAfee Cloud(VRealize Automation).
 - I achieved 98% test automation, 80% code and functional coverage for Threat Intelligence component in all of McAfee Enterprise and Consumer Products.
@@ -39,14 +39,16 @@ I am looking to work with a innovative team building exciting products for its c
 I thrive working in a team. I always go out of my way communicate openly with others and have a good relationship with all my team members.
 
 - In my current role, I established a relationship with SMEs to gain domain knowledge. I also engaged with product owner/customers to get quick feeback of the features. 
-- I used my skills from previous roles to help my scrum master to co-ordinate sprint planning and daily stand ups when the team adopted Agile methodology(from a Waterfall model).
+- As a team we decided and followed Continuous Delivery approach to release frequently. We worked in small iterations on the next most valuable feature for the customer 
 - In my previous role as a Software Quality Engineer I always volunteered to mentor Work Experience students and Interns. I learnt a lot from pairing with them.
 - I also wrote my tests along with the developers so that the tests are ready when the feature is complete. This saved 2 sprints worth of backlog and technical debt. 
 
-#### Additional Skills
+#### Technical Skills
 
-- Python, RobotFramework, Jenkins, Agile Methodologies, Quality Assurance
-- Basic French
+- JavaScript, React/Redux, HTML/CSS
+- Java, Ruby, Python
+- Agile Mehtodolgies, Continous Delivery, Quality Assurance
+- Rspec, Jasmine, Enzyme, Jest
 
 ## Education
 
