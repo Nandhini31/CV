@@ -28,9 +28,8 @@ I am looking to work with a innovative team building exciting products for its c
 
 #### Leadership
 
-- I was responsible for building, testing and releasing everyday anti-virus updates for various McAfee products globally.
-- I was scrum master for development and QA teams who built the daily anti-virus update software.
 - I led sprint planning, backlog grooming, product roadmap through daily stand ups to focus on delivery and value to the customer iteratively.
+- I was responsible for a team of 10 to build, test and release anti-virus updates for various McAfee products globally everyday.
 - I co-founded womenhackfornonprofits.com, a social enterprise for women in tech to build free open source software for charities around the world.
 
 
@@ -38,10 +37,10 @@ I am looking to work with a innovative team building exciting products for its c
 
 I thrive working in a team. I always go out of my way communicate openly with others and have a good relationship with all my team members.
 
-- In my current role, I established a relationship with SMEs to gain domain knowledge. I also engaged with product owner/customers to get quick feeback of the features. 
+- In my current role, I established a relationship with SMEs to gain domain knowledge quickly. I also engaged with product owner/customers to get quick feeback of our features. 
 - As a team we decided and followed Continuous Delivery approach to release frequently. We worked in small iterations on the next most valuable feature for the customer 
-- In my previous role as a Software Quality Engineer I always volunteered to mentor Work Experience students and Interns. I learnt a lot from pairing with them.
-- I also wrote my tests along with the developers so that the tests are ready when the feature is complete. This saved 2 sprints worth of backlog and technical debt. 
+- In my previous role as a Software Quality Engineer I always volunteered to mentor Work Experience students and Interns. I learnt a lot from pair programming with them.
+- I wrote my tests along with the developers so that the tests are ready when the feature is complete. This saved 2 sprints worth of backlog and technical debt. 
 
 #### Technical Skills
 
