@@ -77,7 +77,7 @@ I thrive working in a team. I always go out of my way communicate openly with ot
 
 
 ## Experience
-**Ladbrokes Coral** (October 2017 - Present)
+**Ladbrokes Coral** (October 2017 to Present)
 *Software Developer*
 
 **McAfee** (October 2013 to June 2017)    
