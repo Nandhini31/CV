@@ -20,7 +20,7 @@ I am looking to work with a innovative team developing products for its customer
 
 #### Analytical Thinker
 
-- Built a standalone app for the Audit team using React/Redux front end with Java 8 Spring backend that consumes Kafka streams, built in docker ,persists the data in a Postgres DB and hosted in AWS 
+- Built a standalone app for the Audit team using React/Redux front end with Java 8 Spring backend. Got familiar with concepts  of Kafka streams,  docker, Postgres DB and AWS 
 
 - As a trained Engineer I always look for opportunities to automate any manual tasks. In my role as Test Automation Engineer I enjoyed automating the end to end testing cycle including Continuous Integration(Jenkins), test automation(Python + Robot Framework) and result generation(HTML/CSS/Jenkins). 
 - I also extended my role into DevOps by migrating our Test Infrastructure from VMWare ESX to McAfee Cloud(VRealize Automation).
